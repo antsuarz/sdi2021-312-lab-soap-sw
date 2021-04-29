@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Antonio
+Build-Jdk: 11.0.10
+Implementation-Title: sdi2021-312-lab-soap-cliente
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.uniovi
+Implementation-URL: https://spring.io/projects/spring-boot/sdi2021-312-l
+ ab-soap-cliente
+Created-By: Maven Integration for Eclipse
+
